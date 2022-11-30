@@ -1,0 +1,68 @@
+html{
+    width:100%;
+    background:#fff;
+  }
+  body{
+   background:#eee;
+    width:100%;
+    margin:10px 5px;
+    viewport-fit: 0;
+  }
+  #main{
+    background:#eee;
+    width:100%;
+  }
+  #title{
+    font-size:4rem;
+    text-align:center;
+    padding-top:20px;
+  }
+  #main p{
+    text-align:center;
+    
+  }
+  #img-div{
+    width:98%;
+    background: #ffffff;
+    margin:auto;
+    text-align:center;
+  }
+  #image{
+    display:block;
+    max-width:100%;
+    width:80%;
+    margin:auto;
+    padding:auto;
+    text-align:center;
+  }
+  #img-caption{
+    font-size:1.1rem;
+    text-align:center;
+    padding: 10px;
+  }
+  #tribute-info{
+    width:70%;
+    margin: auto;
+   
+  
+  }
+  #tribute-info h3{
+    text-align:center;
+    font-size:1.5rem;
+    padding:5px;
+    }
+    #tribute-info li{
+      padding:5px;
+      list-style: none;
+    }
+    #tribute-info p{
+      font-style:italic;
+      text-align:justify;
+    }
+    footer{
+      width:100%;
+      font-size:1.3rem;
+      font-style:bold;
+      text-align:center;
+      padding:20px;
+    }
