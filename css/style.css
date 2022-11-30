@@ -6,11 +6,11 @@ html{
    background:#eee;
     width:100%;
     margin:10px 5px;
-    viewport-fit: 0;
+    
   }
   #main{
     background:#eee;
-    width:100%;
+    viewport-fit:100%;
   }
   #title{
     font-size:4rem;
